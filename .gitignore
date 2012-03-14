@@ -1,0 +1,11 @@
+*.pidb
+*.csproj
+*.unityproj
+*.booproj
+*.userprefs
+*.sln
+Library/*
+Temp/*
+!ProjectSettings/*
+!Assets/*
+Assets/Standard\ Assets*
